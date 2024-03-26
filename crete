@@ -13602,7 +13602,7 @@ StopDNALoop.BackgroundTransparency = 0.95
 StopDNALoop.TextStrokeTransparency = 0.3
 StopDNALoop.TextStrokeColor3 = Color3.fromRGB(17, 17, 17)
 StopDNALoop.MouseButton1Click:connect(function()
-    _G.DNAFarmActive = true
+    _G.DNAFarmActive = false
     game.StarterGui:SetCore("SendNotification", {
     Title = "DNA FARM";
     Text = "Paused"; 
