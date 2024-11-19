@@ -5285,7 +5285,7 @@ Part0.Anchored = true
 Part0.Transparency = 0.5
 Part0.Size = Vector3.new(168, 1, 266)
 Part0.CFrame = CFrame.new(24, 2.5, 30, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-Part0.Position = Vector3.new(113, 500, 101)
+Part0.Position = Vector3.new(113, 50000, 101)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(113, 502, 101) + Vector3.new(1,0,0)
 end)
 
